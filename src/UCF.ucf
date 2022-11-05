@@ -1,0 +1,13 @@
+net "CombClk" loc = P40; 
+net "CombDistance[0]" loc = P16;
+net "CombDistance[1]" loc = P13;
+net "CombDistance[2]" loc = P6;
+net "CombDistance[3]" loc = P3;
+net "CombDistance[4]" loc = P93;
+net "CombDistance[5]" loc = P89;
+net "CombDistance[6]" loc = P86;
+net "CombDistance[7]" loc = P84;
+net "CombDistance[8]" loc = P83;
+net "CombTrigOut" loc = P28;
+net "CombBuzzerOut" loc = P43;
+net "CombSensorOutput" loc = P39;
