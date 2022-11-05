@@ -5,3 +5,5 @@ Using a custom FPGA board and an HC-SR04 ultrasonic distance sensor, a parking s
 ![My Image](images/Elec_204_Rtl_2.PNG)
 ## System in Action
 ![My Image](images/parking_sensor_at_action.gif)
+## Source Files
+The project is developed using VHDL. Xilix's ISE design suite was used to program the FPGA board. Since Xilix auto generates a huge number of files even for very simple projects, only the files containing the main program are included in the source folder as this is only a presentation of a work done.
